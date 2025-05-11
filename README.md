@@ -35,3 +35,6 @@ Displaying the details of a College.
 Calculating and displaying the total number of students in a College.
 
 Calculating and displaying the total budget of a College.
+![CompositeDiagramUML](https://github.com/user-attachments/assets/f964187f-0973-4330-a2a9-e0c2f944fc4d)
+
+
