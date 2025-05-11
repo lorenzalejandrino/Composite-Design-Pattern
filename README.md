@@ -22,7 +22,9 @@ Calculate the budget: The system should be able to calculate the total budget fo
 
 Tasks:
 Design a UML class diagram: Create a UML class diagram that illustrates the classes, interfaces, and relationships involved in the system.
+
 Implement the system in Java: Write Java code that implements the design, adhering to the Composite Design Pattern.
+
 Create a client program: Write a client program that demonstrates the functionality of the system by:
 Creating instances of Colleges, departments, teachers, and students.
 Organizing these instances into a hierarchical structure.
