@@ -27,7 +27,11 @@ Implement the system in Java: Write Java code that implements the design, adheri
 
 Create a client program: Write a client program that demonstrates the functionality of the system by:
 Creating instances of Colleges, departments, teachers, and students.
+
 Organizing these instances into a hierarchical structure.
+
 Displaying the details of a College.
+
 Calculating and displaying the total number of students in a College.
+
 Calculating and displaying the total budget of a College.
